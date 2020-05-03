@@ -609,7 +609,7 @@ function cutClose(){
     points = []
 }
 function cutOk(){
-    alert("暂时还未想好功能能----")
+    // alert("暂时还未想好功能能----")
 }
 
 
